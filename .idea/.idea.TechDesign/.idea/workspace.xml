@@ -1,15 +1,305 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="40db3407-8cee-4e2c-9b38-3bebd44ddd79" name="Changes" comment="" />
+    <list default="true" id="40db3407-8cee-4e2c-9b38-3bebd44ddd79" name="Changes" comment="Create project">
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/music/Darkness.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/music/Forest.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/music/Puzzled Mind.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/sfx/ButtonClick.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/sfx/TileSlidingSFX3.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/voices/Cat_interogative_02.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Square-Black SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Square-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/animation_sprites/PuzzleImage16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/animation_sprites/PuzzleImage19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/background/Background 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Background_Blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Background_Green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Background_Yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Background_pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Butto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-=.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-Cellphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-Control.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-exclamation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-house.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-megaphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-note.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-question.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-shoping-cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-shoping-trophy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-som.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-star1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-star2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-star3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-star4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-star5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-video-camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Cell-phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Circle Sprite Mesh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Claquete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Clear-Button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Clear-Press-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Coin-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Coin-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Coin-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Coin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Config.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Controle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Empty-coin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Empty-heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Empty-money.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Empty-ray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Empty-skull.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Empty-star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Flower-vase.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Grass-Buttons-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Grass-Buttons-arrow1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Grass-Buttons-arrow2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Grass-Buttons-arrow3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Level Button Square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Money.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Numbered color tile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Pause (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/PuzzleImage17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/PuzzleImage20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Ray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Restart (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Restart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Skull.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Star Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Star Inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Store.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/TV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/musor/Task.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/static_sprites/board_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/static_sprites/buttons.spriteatlas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/static_sprites/buttons_return.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/static_sprites/buttons_return2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/static_sprites/buttons_setting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/static_sprites/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/static_sprites/numbered_wood_tile.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/static_sprites/tile_slide_shading.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/ui/UIElements.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Game_Space_Container.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/UI_Container.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/level_1.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/level_2.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/main_menu.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/QuitGame.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SceneTransition.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/TileManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Anton OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Anton.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Bangers - OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Bangers.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Electronic Highway Sign.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Oswald-Bold - OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Oswald-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Crate - Surface Shader Scene.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Ground - Logo Scene.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Ground - Surface Shader Scene.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Small Crate_diffuse.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Prefabs/Text Popup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Prefabs/TextMeshPro - Prefab 1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Prefabs/TextMeshPro - Prefab 2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Color Gradient Presets/Dark to Light Green - Vertical.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF - Drop Shadow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF - Outline.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF - Sunny Days.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF - Drop Shadow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF - Outline.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF Glow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF Logo.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/LiberationSans SDF - Metalic Green.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/LiberationSans SDF - Overlay.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/LiberationSans SDF - Soft Mask.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF - Drop Shadow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF - Surface.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Sprite Assets/Default Sprite Asset.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Sprite Assets/DropCap Numbers.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/01-  Single Line TextMesh Pro.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/02 - Multi-line TextMesh Pro.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/03 - Line Justification.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/04 - Word Wrapping.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/05 - Style Tags.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/06 - Extra Rich Text Examples.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/07 - Superscript &amp; Subscript Example.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/08 - Improved Text Alignment.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/09 - Margin Tag Example.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/10 - Bullets &amp; Numbered List Example.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/11 - The Style Tag.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/12 - Link Example.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/12a - Text Interactions.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/13 - Soft Hyphenation.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/14 - Multi Font &amp; Sprites.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/15 - Inline Graphics &amp; Sprites.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/16 - Linked text overflow mode example.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/17 - Old Computer Terminal.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/18 - ScrollRect &amp; Masking &amp; Layout.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/19 - Masking Texture &amp; Soft Mask.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/20 - Input Field with Scrollbar.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/22 - Basic Scripting Example.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/23 - Animating Vertex Attributes.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/24 - Surface Shader Example.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/25 - Sunny Days Example.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/26 - Dropdown Placeholder Example.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/Benchmark (Floating Text).unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01_UGUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark02.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark03.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark04.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/CameraController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ChatController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/DropdownSample.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/EnvMapAnimator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ObjectSpin.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ShaderPropAnimator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SimpleScript.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SkewTextExample.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_DigitValidator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_ExampleScript_01.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_FrameRateCounter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_PhoneNumberValidator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventCheck.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextInfoDebugTool.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_A.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_B.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_UiFrameRateCounter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMPro_InstructionOverlay.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TeleType.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextConsoleSimulator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshProFloatingText.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshSpawner.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexColorCycler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexJitter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeA.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeB.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexZoom.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/WarpTextExample.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Sprites/Default Sprites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Sprites/DropCap Numbers.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Brushed Metal 3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Floor Cement.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Floor Tiles 1 - diffuse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Fruit Jelly (B&amp;W).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Gradient Diagonal (Color).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Gradient Horizontal (Color).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Gradient Vertical (Color).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Mask Zig-n-Zag.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Small Crate_diffuse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Small Crate_normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Sunny Days - Seamless.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Text Overflow - Linked Text Image 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Text Overflow - Linked Text UI Screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Wipe Pattern - Circle.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Wipe Pattern - Diagonal.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Wipe Pattern - Radial Double.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Wipe Pattern - Radial Quad.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TechDesign/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TechDesign/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewBehaviourScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/21 - Script Example.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Big-sunny-sun"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Big-sunny-sun/TechDesignTestProject.git",
+    "accountId": "1b82d056-7a65-4321-b57f-4bb7dabcbddd"
+  }
+}]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -18,14 +308,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.27f1\Editor\Unity.exe" />
@@ -73,16 +367,45 @@
       <option name="presentableId" value="Default" />
       <updated>1742497183122</updated>
       <workItem from="1742497185314" duration="225000" />
+      <workItem from="1742497974666" duration="8555000" />
     </task>
+    <task id="LOCAL-00001" summary="Create project">
+      <option name="closed" value="true" />
+      <created>1742498206126</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742498206126</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
     <option name="unityProject" value="true" />
     <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Create project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create project" />
   </component>
 </project>
