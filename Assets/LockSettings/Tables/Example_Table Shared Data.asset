@@ -19,6 +19,18 @@ MonoBehaviour:
     m_Key: Level1_title
     m_Metadata:
       m_Items: []
+  - m_Id: 30321021075456
+    m_Key: Level2_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30449802985472
+    m_Key: Exit_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68180335706112
+    m_Key: Menu_title
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

@@ -96,7 +96,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5894635919864815191}
   m_Layer: 0
-  m_Name: StaticItems
+  m_Name: staticItems
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -129,7 +129,7 @@ GameObject:
   m_Component:
   - component: {fileID: 221314508482247746}
   m_Layer: 0
-  m_Name: InteractbleItems
+  m_Name: interactbleItems
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -204,6 +204,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8766354652121225669, guid: 84aac5b719b192f4fa9f773692868c7c, type: 3}
+      propertyPath: m_Name
+      value: content
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -266,6 +270,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8766354652121225669, guid: 84aac5b719b192f4fa9f773692868c7c, type: 3}
+      propertyPath: m_Name
+      value: content
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -287,6 +295,10 @@ PrefabInstance:
     - target: {fileID: 71780604365647122, guid: 8bf7c4494d8e4394e862b3ebac37feb1, type: 3}
       propertyPath: m_Name
       value: inetactible_puzzle_element (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3033594512653348974, guid: 8bf7c4494d8e4394e862b3ebac37feb1, type: 3}
+      propertyPath: m_Name
+      value: particle_system
       objectReference: {fileID: 0}
     - target: {fileID: 5125898370509950280, guid: 8bf7c4494d8e4394e862b3ebac37feb1, type: 3}
       propertyPath: m_LocalPosition.x
@@ -328,6 +340,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5804357570187054503, guid: 8bf7c4494d8e4394e862b3ebac37feb1, type: 3}
+      propertyPath: m_Name
+      value: content
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -349,6 +365,10 @@ PrefabInstance:
     - target: {fileID: 71780604365647122, guid: 8bf7c4494d8e4394e862b3ebac37feb1, type: 3}
       propertyPath: m_Name
       value: inetactible_puzzle_element
+      objectReference: {fileID: 0}
+    - target: {fileID: 3033594512653348974, guid: 8bf7c4494d8e4394e862b3ebac37feb1, type: 3}
+      propertyPath: m_Name
+      value: particle_system
       objectReference: {fileID: 0}
     - target: {fileID: 5125898370509950280, guid: 8bf7c4494d8e4394e862b3ebac37feb1, type: 3}
       propertyPath: m_LocalPosition.x
@@ -389,6 +409,10 @@ PrefabInstance:
     - target: {fileID: 5125898370509950280, guid: 8bf7c4494d8e4394e862b3ebac37feb1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5804357570187054503, guid: 8bf7c4494d8e4394e862b3ebac37feb1, type: 3}
+      propertyPath: m_Name
+      value: content
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

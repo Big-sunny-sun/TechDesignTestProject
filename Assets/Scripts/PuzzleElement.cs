@@ -9,12 +9,14 @@ public class PuzzleElement : MonoBehaviour, IPointerClickHandler
     [SerializeField] private string _propName = "Clicked";
     [SerializeField] private Animator _puzzleAnimator;
     [SerializeField] private ParticleSystem _particle;
+    [SerializeField] private AudioSource _audioSource;
             
     public void OnPointerClick(PointerEventData eventData)
     {
         _puzzleAnimator.SetBool(_propName, true);
         _particle?.Play();
-
+        _audioSource?.Play();
+        
         Invoke(nameof(DropValue), 0.25f);
     }
 

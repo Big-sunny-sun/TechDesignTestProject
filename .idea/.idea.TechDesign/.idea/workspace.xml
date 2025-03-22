@@ -4,17 +4,129 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40db3407-8cee-4e2c-9b38-3bebd44ddd79" name="Changes" comment="">
+    <list default="true" id="40db3407-8cee-4e2c-9b38-3bebd44ddd79" name="Changes" comment="Create animation, add prefabs, add localization">
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/BackroundCanvas.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/level_button.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/tablet_level_button.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/ui_components.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Rescaler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald-VariableFont_wght SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald-VariableFont_wght.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TechDesign/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TechDesign/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Fonts/Square-Black SDF.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Fonts/Square-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Game_Space_Container.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/UI_Container.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LockSettings/Localization Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LockSettings/Localization Settings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LockSettings/Tables/Example_Table Shared Data.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LockSettings/Tables/Example_Table Shared Data.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LockSettings/Tables/Example_Table_de.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LockSettings/Tables/Example_Table_de.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LockSettings/Tables/Example_Table_en.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LockSettings/Tables/Example_Table_en.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LockSettings/Tables/Example_Table_ru.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LockSettings/Tables/Example_Table_ru.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Background_Blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Background_Green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Background_Yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Background_pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Butterfly-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Butto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-=.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-Cellphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-Control.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-exclamation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-house.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-megaphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-note.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-pause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-question.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-shoping-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-shoping-trophy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-som.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-star1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-star2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-star3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-star4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-star5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-v.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-video-camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Buttons-x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Cell-phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Circle Sprite Mesh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Claquete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Clear-Button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Clear-Press-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Coin-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Coin-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Coin-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Coin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Config.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Controle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Dot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Empty-coin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Empty-heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Empty-money.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Empty-ray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Empty-skull.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Empty-star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Flower-vase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Grass-Buttons-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Grass-Buttons-arrow1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Grass-Buttons-arrow2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Grass-Buttons-arrow3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Level Button Square.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Money.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Numbered color tile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Pause (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Pause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/PuzzleImage17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/PuzzleImage20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Ray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Restart (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Restart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Skull.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Star Active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Star Inactive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Store.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/TV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/musor/Task.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/static_sprites/game_ui.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/static_sprites/game_ui.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/static_sprites/game_ui/board_background.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/static_sprites/ui_pack/board_background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/static_sprites/game_ui/next.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/static_sprites/ui_pack/next.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/static_sprites/game_ui/numbered_wood_tile.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/static_sprites/ui_pack/numbered_wood_tile.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/ui/UIElements.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/static_sprites/UIElements.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/button_tools.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/button_transition.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/transition_button.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/game_board_2_2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/game_board_2_2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/game_board_3_3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/game_board_3_3.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/inetactible_puzzle_element.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/inetactible_puzzle_element.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/level_1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/level_1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/level_2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/level_2.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/main_menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/main_menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PuzzleElement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PuzzleElement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/Square-Black SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/Square-Black SDF.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +228,7 @@
       <workItem from="1742629896338" duration="11000" />
       <workItem from="1742634291719" duration="79000" />
       <workItem from="1742634782063" duration="4000" />
-      <workItem from="1742635371590" duration="1529000" />
+      <workItem from="1742635371590" duration="7260000" />
     </task>
     <task id="LOCAL-00001" summary="Create project">
       <option name="closed" value="true" />
@@ -134,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742589945226</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Create animation, add prefabs, add localization">
+      <option name="closed" value="true" />
+      <created>1742644408268</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742644408268</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +284,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Create project" />
     <MESSAGE value="setup project environment, add assets, create scenes, UI, scripts" />
-    <option name="LAST_COMMIT_MESSAGE" value="setup project environment, add assets, create scenes, UI, scripts" />
+    <MESSAGE value="Create animation, add prefabs, add localization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create animation, add prefabs, add localization" />
   </component>
 </project>

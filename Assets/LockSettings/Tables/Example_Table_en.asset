@@ -19,7 +19,19 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 141208633344
-    m_Localized: LEVEL 1 [en]
+    m_Localized: LEVEL 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30321021075456
+    m_Localized: LEVEL 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30449802985472
+    m_Localized: EXIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68180335706112
+    m_Localized: MENU
     m_Metadata:
       m_Items: []
   references:
