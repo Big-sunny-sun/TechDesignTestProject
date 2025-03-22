@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: game_ui
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: cbfc42c81c3b0be459a2519b1b69b4df, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - a2af979883f82374eb72bcf288efa8ff: 21300000
+    - 2b130bfa8a169694d9216d8719b18983: 21300000
+    - 46b55b6ebf1d2404884314ea972c9f74: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a2af979883f82374eb72bcf288efa8ff, type: 3}
+  - {fileID: 21300000, guid: 2b130bfa8a169694d9216d8719b18983, type: 3}
+  - {fileID: 21300000, guid: 46b55b6ebf1d2404884314ea972c9f74, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - board_background
+  - numbered_wood_tile
+  - next
+  m_RenderDataMap: {}
+  m_Tag: game_ui
+  m_IsVariant: 0
