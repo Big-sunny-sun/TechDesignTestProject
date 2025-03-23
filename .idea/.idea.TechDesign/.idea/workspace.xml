@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40db3407-8cee-4e2c-9b38-3bebd44ddd79" name="Changes" comment="" />
+    <list default="true" id="40db3407-8cee-4e2c-9b38-3bebd44ddd79" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/ProfileDataSourceSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +116,7 @@
       <workItem from="1742634291719" duration="79000" />
       <workItem from="1742634782063" duration="4000" />
       <workItem from="1742635371590" duration="7499000" />
+      <workItem from="1742721665437" duration="387000" />
     </task>
     <task id="LOCAL-00001" summary="Create project">
       <option name="closed" value="true" />
@@ -147,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742679785706</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Error checking, order in layer fixes">
+      <option name="closed" value="true" />
+      <created>1742721977300</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742721977300</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +190,7 @@
     <MESSAGE value="setup project environment, add assets, create scenes, UI, scripts" />
     <MESSAGE value="Create animation, add prefabs, add localization" />
     <MESSAGE value="Localization keys, spine animation, UI res adaptation, naming, asset management" />
-    <option name="LAST_COMMIT_MESSAGE" value="Localization keys, spine animation, UI res adaptation, naming, asset management" />
+    <MESSAGE value="Error checking, order in layer fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Error checking, order in layer fixes" />
   </component>
 </project>

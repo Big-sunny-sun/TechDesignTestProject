@@ -239,7 +239,7 @@ GameObject:
   - component: {fileID: 45565615}
   - component: {fileID: 45565614}
   m_Layer: 0
-  m_Name: Audio Source
+  m_Name: Audio_Source
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -461,7 +461,7 @@ GameObject:
   - component: {fileID: 546554035}
   - component: {fileID: 546554034}
   m_Layer: 0
-  m_Name: Spine GameObject (cloud-pot)2
+  m_Name: Spine_GameObject_(cloud-pot)2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -586,7 +586,7 @@ GameObject:
   - component: {fileID: 677418653}
   - component: {fileID: 677418652}
   m_Layer: 0
-  m_Name: Audio Source_Voice
+  m_Name: Audio_Source_Voice
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -818,7 +818,7 @@ GameObject:
   - component: {fileID: 1079404240}
   - component: {fileID: 1079404239}
   m_Layer: 0
-  m_Name: Spine GameObject (cloud-pot)
+  m_Name: Spine_GameObject_(cloud-pot)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
