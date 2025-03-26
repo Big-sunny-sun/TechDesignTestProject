@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40db3407-8cee-4e2c-9b38-3bebd44ddd79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/ProfileDataSourceSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TechDesign/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TechDesign/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/music/Darkness.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio/music/darkness_background.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/music/Forest.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio/music/forest_background.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/music/Puzzled Mind.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio/music/puzzled_mind_background.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/sfx/ButtonClick.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio/sfx/button_click.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/voices/Cat_interogative_02.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio/voices/cat_interogative_voice.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/animation_sprites/PuzzleImage16.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/animation_sprites/puzzle_Image2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/animation_sprites/PuzzleImage19.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/animation_sprites/puzzle_Image1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/background/Background 1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/background/background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/BackroundCanvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/backround_canvas.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +128,8 @@
       <workItem from="1742634782063" duration="4000" />
       <workItem from="1742635371590" duration="7499000" />
       <workItem from="1742721665437" duration="387000" />
+      <workItem from="1742730472082" duration="2269000" />
+      <workItem from="1743012881557" duration="279000" />
     </task>
     <task id="LOCAL-00001" summary="Create project">
       <option name="closed" value="true" />
@@ -158,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742721977300</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Final edits">
+      <option name="closed" value="true" />
+      <created>1742730530477</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742730530477</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +212,7 @@
     <MESSAGE value="Create animation, add prefabs, add localization" />
     <MESSAGE value="Localization keys, spine animation, UI res adaptation, naming, asset management" />
     <MESSAGE value="Error checking, order in layer fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Error checking, order in layer fixes" />
+    <MESSAGE value="Final edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final edits" />
   </component>
 </project>
